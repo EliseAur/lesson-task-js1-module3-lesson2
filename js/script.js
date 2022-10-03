@@ -15,3 +15,4 @@ const messageContainer = document.querySelector(".message-container");
 const message = createMessage();
 
 messageContainer.innerHTML = message;
+

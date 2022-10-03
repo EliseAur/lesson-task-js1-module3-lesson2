@@ -1,0 +1,15 @@
+.error {
+    font-size: 2em;
+    font-family: sans-serif;
+    border: 2px solid darkred;
+    background: rgba(255, 0, 0, 0.3);
+    color: darkred;
+}
+
+.welcome {
+    font-size: 2em;
+    font-family: sans-serif;
+    border: 2px solid darkgreen;
+    background: rgba(131, 215, 131, 0.847);
+    color: darkgreen;
+}
